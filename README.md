@@ -1,2 +1,2 @@
-# testingjenkins
-This is a git to test out jenkins
+# Testing Jenkins
+This is just a test
